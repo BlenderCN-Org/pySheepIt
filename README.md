@@ -1,5 +1,7 @@
 # SheepIt Render Farm Client
 
+WORK IN PROGRESS!
+
 ## Overview
 
 The PySheepIt Client is an *Open Source* client for the distributed render farm [**Sheep It!**](https://www.sheepit-renderfarm.com).
